@@ -14,5 +14,6 @@ Some of the tickets completed include
 	-create a footer that includes a copywriter, date, title and company 
 	-create an event model 
 	
+More information here https://www.learncodinganywhere.com/CourseOverViews/liveProject
 
 
