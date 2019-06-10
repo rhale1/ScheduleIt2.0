@@ -1,5 +1,6 @@
 # ScheduleIt2.0
-An ASP.NET MVC C# user management system with a code first Entity Framework code first database.
+An ASP.NET MVC C# user management system with a code first Entity Framework code first database. 
+The system will track user clock-ins, schedules, requests for time off etc.
 This repository contains files of my contribution to The Tech Academy Live Project which purpose was to replicate a real world software development project. 
 Some of the tickets completed include
 	-implement javascript Full Calendar API 
